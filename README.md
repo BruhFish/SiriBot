@@ -20,7 +20,7 @@
 
   
 <h2>Features</h2>  
-- 🤖 **Utility commands and fun commands for you to use!**  
+-  🤖 **Utility commands and fun commands for you to use!**  
   
 - ℹ️ **Infomation of servers, channels and anything that you can dream of.**  
   
