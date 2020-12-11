@@ -1,5 +1,5 @@
 <html><head></head><body><p><img style="margin-right:1em" width="160px" align="left" src="https://rendernetwork.co/MCFactsImages/MCFactsLogo.png"></p>
-<span title="An Information Bot designed with simplicity in mind"><h1>MCFacts</h1></span>
+<span title="Shaping the future of discord bots for the better!"><h1>Siri</h1></span>
 
 
 <a href="https://top.gg/bot/747074164635992074" >
@@ -36,6 +36,6 @@
 
 <h1>Widgets</h1>
 <a href="https://botsfordiscord.com/bpt/747074164635992074" >
-  <img src="https://botsfordiscord.com/api/bot/747074164635992074/widget" alt="MCFacts" />
+  <img src="https://botsfordiscord.com/api/bot/747074164635992074/widget" alt="Siri" />
 </a>
 
