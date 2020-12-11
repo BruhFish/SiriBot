@@ -1,4 +1,4 @@
-<html><head></head><body><p><img style="margin-right:1em" width="160px" align="left" src="https://rendernetwork.co/MCFactsImages/MCFactsLogo.png"></p>
+<html><head></head><body><p><img style="margin-right:1em" width="160px" align="left" src="https://cdn.discordapp.com/icons/780350876317384704/bcdf7fc1940cdcc4da56e05ab287ed84.webp?size=1024"></p>
 <span title="Shaping the future of discord bots for the better!"><h1>Siri</h1></span>
 
 
@@ -32,10 +32,4 @@
 **Support Server:** discord.gg/Jmqd5D5HXT
 
 ------------------------------------------------------------------
-
-
-<h1>Widgets</h1>
-<a href="https://botsfordiscord.com/bpt/747074164635992074" >
-  <img src="https://botsfordiscord.com/api/bot/747074164635992074/widget" alt="Siri" />
-</a>
 
