@@ -20,16 +20,16 @@
 
   
 <h2>Features</h2>  
-* 🤖 **Utility commands and fun commands for you to use!**  
+- 🤖 **Utility commands and fun commands for you to use!**  
   
-* ℹ️ **Infomation of servers, channels and anything that you can dream of.**  
+- ℹ️ **Infomation of servers, channels and anything that you can dream of.**  
   
-* 🛠️ **Moderation commands to keep your community safe and clean**  
+- 🛠️ **Moderation commands to keep your community safe and clean**  
   
 ------------------------------------------------------------------  
   
 **Add this bot to your server:** https://discord.com/oauth2/authorize?client_id=747074164635992074&permissions=403778662&scope=bot 
-**Support Server:** discord.gg/Jmqd5D5HXT
+**Support Server:** discord.gg/Jmqd5D5HXT 
 
 ------------------------------------------------------------------
 
